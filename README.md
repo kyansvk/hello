@@ -36,4 +36,7 @@ https://www.shopback.my/?raf=I3ILx3
 maxibacon@outlook.com
 https://www.shopback.my/?raf=rFZgPZ
 
+orizan@outlook.com
+https://www.shopback.my/?raf=Gnv5tA
+
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
