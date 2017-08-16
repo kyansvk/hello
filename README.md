@@ -45,4 +45,10 @@ https://www.shopback.my/?raf=kUkd2y
 wiwanow@outlook.com
 https://www.shopback.my/?raf=RoOozW
 
+gosumi999@outlook.com
+https://www.shopback.my/?raf=naCTnJ
+
+weimingleong100@outlook.com
+https://www.shopback.my/?raf=JbidYn
+
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
