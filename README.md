@@ -51,4 +51,7 @@ https://www.shopback.my/?raf=naCTnJ
 weimingleong100@outlook.com
 https://www.shopback.my/?raf=JbidYn
 
+summazo@outlook.com
+https://www.shopback.my/?raf=Z5UP2p
+
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
