@@ -15,7 +15,7 @@ https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=P7JZXWUADQUCF7DSBN
 
 https://www.shopback.my/?raf=4IAI3B
 
-admin@kdutrading.com
+kyan@ruru.be
 https://www.shopback.my?raf=PtaVjh
 
 hootong5555@gmail.com
@@ -59,5 +59,29 @@ https://www.shopback.my/?raf=8U05VX
 
 sijenolon@outlook.com
 https://www.shopback.my/?raf=ccmKxe
+
+ask@merry.pink
+https://www.shopback.my/?raf=GYShAV
+
+laytongoh@outlook.com
+https://www.shopback.my/?raf=CWf4Bw
+
+wanulejinemy@gmail.com
+https://www.shopback.my/?raf=9y9D1P
+
+gajunamen@outlook.com
+https://www.shopback.my/?raf=dwQtrY
+
+weyezakun58@gmail.com
+https://www.shopback.my/?raf=2vsDWA
+
+yilumodon@outlook.com
+https://www.shopback.my/?raf=EpnsV9
+
+tisiyalen@outlook.com
+https://www.shopback.my/?raf=Uf2l10
+
+fekuwanin@outlook.com
+https://www.shopback.my/?raf=Ti1pIE
 
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
