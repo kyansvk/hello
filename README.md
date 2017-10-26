@@ -93,4 +93,7 @@ https://www.shopback.my/?raf=4DaFFn
 tutojawan@outlook.com
 https://www.shopback.my/?raf=B3CUWJ
 
+roserazine95@yahoo.com
+https://www.shopback.my/?raf=0am6RK
+
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
