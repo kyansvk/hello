@@ -102,7 +102,5 @@ https://www.shopback.my/?raf=UAxj4y
 dimulahon@outlook.com
 https://www.shopback.my/?raf=uBZuBY
 
-holoyogen@outlook.com
-https://www.shopback.my/?raf=AiU5u9
 
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
