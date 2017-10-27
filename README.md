@@ -105,4 +105,7 @@ https://www.shopback.my/?raf=uBZuBY
 gigeyawin@outlook.com
 https://www.shopback.my/?raf=DdpJ8N
 
+ryanz@ahk.jp
+https://www.shopback.my/?raf=l8wG12
+
 http://www.safervpn.com/vpn/1?rtoken=NzY2NzI2Og==
