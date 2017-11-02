@@ -1,0 +1,42 @@
+import time
+def sotar(linee):
+   if linee == '':
+       return False
+   for symbols in linee.split(":")[3].replace(' ', ''):
+       if symbols == '-':
+           return False
+   else:
+       return True
+def main():
+   f = open("voucherCodeHi.txt", "r")  # bukak file output
+   vcl = f.read().split('\n')  # bahagi setiap line dalam voucher file ke dalam satu list dalam ni --> vcl
+   sotared = {'10':[],'5':[],'12':[]}  # tempat barang disusun
+   for line in vcl:  # untuk loop ni kiter guna line kiter jadi ni --> Mon Oct 02 23:47:04 2017 :  5CYBERhiahia
+       if sotar(line):  # selalunya kalu aku bukak voucher file pastu aku guner aku letak '-' kat hujung line tu mcm 'Mon Sep 11 07:01:47 2017 :  19KAWa6u98a -sedekah' nmpk ade dash kat situ, maka kalu ade dash dalam satu line tu akan membawa maksud yang bahawa voucher tu aku dah guna/ambik bagi orang
+           vc = line.split(":")[3].replace(' ', '')  # buat line jadi ['Mon Oct 02 23', '47', '04 2017 ', '5CYBERhiahia'] pastu kiter buang space dlm vc[3](tu tempat voucher kiter tersimpan)
+           y = []  # bapak ah
+           for w in vc:  # ambek setiap huruf/nombor dlm vc[3] iaitu '5CYBERhiahia'
+               if not w.lower() == 'c':  # biler kene w jadi C nanti dlm list y ade nombor jah
+                   y.append(w)
+               else:  # biler dah kene c maksud nya kiter dah ambek percentage voucher tu dalam kes ni bende tu 5% so dalam y ade ['5'] , kalau 12 nanti dlm y ade ['1', '2']
+                   sotared[''.join(y)].append(vc)  # kalu dlm y ade ['5'] nanti line ni membawa maksud sotared['5'].append(vc) lepastu [].append(vc) --> {'5':['5CYBERhiahia']}
+                   break  # pastu sambung kepade line seterus nya
+
+   f.close()  # lepas habis susun semua voucher dalam vc, tutup file lame pastu bukak file baru untuk disusun untuk senang mata memandang mcm https://i.imgur.com/LztFyLz.png
+   f = open("vouncherSortedHi.txt", 'w')  # dari sini, fhmlah kamu dengan sendirinya
+   for i in sotared:
+       f.write(i+"%"+" %i " % (len(sotared[i]))+"\n\n")
+       for magic in sotared[i]:
+           f.write(magic+"\n")
+       f.write("\n\n")
+   f.close()
+   print time.ctime(int(time.time()))
+   print "~====STATUS====~"
+   for key in sotared:
+       print str(key)+": "+str(len(sotared[key]))
+   print "~=END OF STATS=~"
+   time.sleep(1800)
+
+while 1:
+   main()
+
